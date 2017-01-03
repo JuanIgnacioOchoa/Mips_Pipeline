@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -17.405
+TNS   : -12432.037
+
+Type  : Slow Model Setup 'PC_Register:ProgramCounter|PCValue[2]'
+Slack : -12.609
+TNS   : -365.746
+
+Type  : Slow Model Hold 'PC_Register:ProgramCounter|PCValue[2]'
+Slack : -7.619
+TNS   : -174.304
+
+Type  : Slow Model Hold 'clk'
+Slack : -0.123
+TNS   : -0.221
+
+Type  : Slow Model Minimum Pulse Width 'PC_Register:ProgramCounter|PCValue[2]'
+Slack : -4.535
+TNS   : -1453.690
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -1025.380
+
+Type  : Fast Model Setup 'clk'
+Slack : -7.193
+TNS   : -5015.779
+
+Type  : Fast Model Setup 'PC_Register:ProgramCounter|PCValue[2]'
+Slack : -5.079
+TNS   : -143.495
+
+Type  : Fast Model Hold 'PC_Register:ProgramCounter|PCValue[2]'
+Slack : -3.691
+TNS   : -86.971
+
+Type  : Fast Model Hold 'clk'
+Slack : -0.535
+TNS   : -6.118
+
+Type  : Fast Model Minimum Pulse Width 'PC_Register:ProgramCounter|PCValue[2]'
+Slack : -1.722
+TNS   : -484.860
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -1025.380
+
+------------------------------------------------------------

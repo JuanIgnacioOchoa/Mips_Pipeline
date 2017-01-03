@@ -1,0 +1,699 @@
+C:/Hanoi/PipeIFID.v {1 {vlog -work work C:/Hanoi/PipeIFID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeIFID
+
+Top level modules:
+	PipeIFID
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Multiplexer2to1.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Multiplexer2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/MIPS_Processor.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/MIPS_Processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ProgramMemory.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ProgramMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/Hanoi/IFID.v {1 {vlog -work work C:/Hanoi/IFID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/SignExtend.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Hanoi/Register.v {1 {vlog -work work C:/Hanoi/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/ALUControl.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/DataMemory.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/ShiftLeft2.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/PC_Register.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/PC_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/Hanoi/HazardDetection.v {1 {vlog -work work C:/Hanoi/HazardDetection.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardDetection
+
+Top level modules:
+	HazardDetection
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Adder32bits.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Adder32bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/Hanoi/ALU.v {2 {vlog -work work C:/Hanoi/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+** Warning: C:/Hanoi/ALU.v(71): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Hanoi/ALU.v(74): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeIDEX.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeIDEX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeIDEX
+
+Top level modules:
+	PipeIDEX
+
+} {} {}} C:/Hanoi/Multiplexer4to1.v {1 {vlog -work work C:/Hanoi/Multiplexer4to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer4to1
+
+Top level modules:
+	Multiplexer4to1
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/DecoderRegisterFile.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/DecoderRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/PC_Register.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/PC_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/Hanoi/EXMEM.v {1 {vlog -work work C:/Hanoi/EXMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/IDEX.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/IDEX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ANDGate.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/RegisterFile.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/MUXRegisterFile.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/MUXRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/DecoderRegisterFile.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/DecoderRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Definitions.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Definitions.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Hanoi/MEMWB.v {1 {vlog -work work C:/Hanoi/MEMWB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/ANDGate.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/ANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/Register.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Control.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/MUXRegisterFile.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/MUXRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ALU.v} {2 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+** Warning: C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ALU.v(71): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ALU.v(74): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ALU
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/Control.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/RegisterFile.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Register.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Adder32bits.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Adder32bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/MIPS_Processor.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/MIPS_Processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeIFID.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeIFID.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeIFID
+
+Top level modules:
+	PipeIFID
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Definitions.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Definitions.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/IFID.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/IFID.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Hanoi/PC_Register.v {1 {vlog -work work C:/Hanoi/PC_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Register.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ANDGate.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/Definitions.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/Definitions.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Multiplexer2to1.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Multiplexer2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/SignExtend.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ProgramMemory.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ProgramMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/MUXRegisterFile.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/MUXRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ALUControl.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ShiftLeft2.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/DataMemory.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ProgramMemory.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ProgramMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/Hanoi/DecoderRegisterFile.v {1 {vlog -work work C:/Hanoi/DecoderRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/Hanoi/ForwardingUnit.v {1 {vlog -work work C:/Hanoi/ForwardingUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Control.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeEXMEM.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeEXMEM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeEXMEM
+
+Top level modules:
+	PipeEXMEM
+
+} {} {}} C:/Hanoi/ANDGate.v {1 {vlog -work work C:/Hanoi/ANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/MIPS_Processor_TB.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/MIPS_Processor_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/ProgramMemory.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/ProgramMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/Multiplexer2to1.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/Multiplexer2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/Hanoi/RegisterFile.v {1 {vlog -work work C:/Hanoi/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Adder32bits.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Adder32bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MIPS_Processor_TB.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MIPS_Processor_TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/Hanoi/MUXRegisterFile.v {1 {vlog -work work C:/Hanoi/MUXRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeMEMWB.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PipeMEMWB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeMEMWB
+
+Top level modules:
+	PipeMEMWB
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/MIPS_Processor_TB.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/MIPS_Processor_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/MIPS_Processor_TB.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/MIPS_Processor_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PC_Register.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/PC_Register.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/Hanoi/Control.v {1 {vlog -work work C:/Hanoi/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/Adder32bits.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/Adder32bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Register.v {1 {vlog -work work C:/Users/Lenovo/Desktop/MIPSProject/MIPSProcesos_ver1/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/DecoderRegisterFile.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/DecoderRegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ANDGate.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ANDGate.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/Hanoi/PipeIDEX.v {1 {vlog -work work C:/Hanoi/PipeIDEX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeIDEX
+
+Top level modules:
+	PipeIDEX
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/RegisterFile.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MUXRegisterFile.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MUXRegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MIPS_Processor.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MIPS_Processor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Hanoi/IDEX.v {1 {vlog -work work C:/Hanoi/IDEX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Control.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/SignExtend.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/SignExtend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Multiplexer2to1.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/Multiplexer2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/Hanoi/Definitions.v {1 {vlog -work work C:/Hanoi/Definitions.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ALUControl.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ALUControl.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/DataMemory.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/DataMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ShiftLeft2.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/ShiftLeft2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/MIPSProject/MIPSProcesos_ver1/ALU.v {1 {vlog -work work C:/MIPSProject/MIPSProcesos_ver1/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/EXMEM.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/EXMEM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Hanoi/MIPS_Processor.v {1 {vlog -work work C:/Hanoi/MIPS_Processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Hanoi/Multiplexer2to1.v {1 {vlog -work work C:/Hanoi/Multiplexer2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/Hanoi/ProgramMemory.v {1 {vlog -work work C:/Hanoi/ProgramMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/Hanoi/SignExtend.v {1 {vlog -work work C:/Hanoi/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/PC_Register.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/PC_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MEMWB.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/MEMWB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Hanoi/PipeEXMEM.v {1 {vlog -work work C:/Hanoi/PipeEXMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeEXMEM
+
+Top level modules:
+	PipeEXMEM
+
+} {} {}} C:/Hanoi/ALUControl.v {1 {vlog -work work C:/Hanoi/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/Hanoi/DataMemory.v {1 {vlog -work work C:/Hanoi/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Hanoi/ShiftLeft2.v {1 {vlog -work work C:/Hanoi/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/SignExtend.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Hanoi/MIPS_Processor_TB.v {1 {vlog -work work C:/Hanoi/MIPS_Processor_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/DecoderRegisterFile.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/DecoderRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/DataMemory.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ShiftLeft2.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ALUControl.v {1 {vlog -work work C:/Users/Lenovo/Downloads/Hanoi/Hanoi/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Definitions.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/Definitions.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Hanoi/PipeMEMWB.v {1 {vlog -work work C:/Hanoi/PipeMEMWB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PipeMEMWB
+
+Top level modules:
+	PipeMEMWB
+
+} {} {}} {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/RegisterFile.v} {1 {vlog -work work {C:/Users/Lenovo/Google Drive/Iteso/Semestre 7/Arqui/Practica 3/Hanoi/Hanoi/RegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Hanoi/Adder32bits.v {1 {vlog -work work C:/Hanoi/Adder32bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}}

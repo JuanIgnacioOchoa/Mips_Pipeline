@@ -1,0 +1,42 @@
+module ForwardingUnit(
+	input [4:0] EX_MEM_RegisterRD,
+	input	[4:0] MEM_WB_RegisterRD,
+	input [4:0] ID_EX_RegisterRS,
+	input [4:0] ID_EX_RegisterRT,
+	input EX_MEM_RegWrite,
+	input MEM_WB_RegWrite,
+	output reg [1:0] ForwardA,
+	output reg [1:0] ForwardB
+);
+
+
+always@(*) 
+	begin
+		begin
+			if(EX_MEM_RegWrite &&
+				EX_MEM_RegisterRD != 0 && 
+				EX_MEM_RegisterRD == ID_EX_RegisterRS)
+					ForwardA = 2'b10;
+			else if(MEM_WB_RegWrite && 
+				MEM_WB_RegisterRD != 0 && 
+				EX_MEM_RegisterRD != ID_EX_RegisterRS &&
+				MEM_WB_RegisterRD == ID_EX_RegisterRS)
+					ForwardA = 2'b01;
+			else
+					ForwardA = 2'b00;
+		end
+		begin
+			if(EX_MEM_RegWrite && 
+				EX_MEM_RegisterRD != 0 && 
+				EX_MEM_RegisterRD == ID_EX_RegisterRT)
+					ForwardB = 2'b10;
+			else if(MEM_WB_RegWrite && 
+				MEM_WB_RegisterRD != 0 && 
+				EX_MEM_RegisterRD != ID_EX_RegisterRT &&
+				MEM_WB_RegisterRD == ID_EX_RegisterRT)
+					ForwardB = 2'b01;
+			else
+					ForwardB = 2'b00;
+		end
+	end
+endmodule

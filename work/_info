@@ -1,0 +1,485 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\MIPSProject\MIPSProcesos_ver1
+vAdder32bits
+Z1 !s100 F]34C4kjj?WS2AJX57Lh33
+Z2 I]1;VZB_RIhGK``7EP;2580
+Z3 VhbeHMJ9:9][[WIY?Ingef0
+Z4 dC:\Hanoi
+Z5 w1477893606
+Z6 8C:/Hanoi/Adder32bits.v
+Z7 FC:/Hanoi/Adder32bits.v
+L0 13
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Hanoi/Adder32bits.v|
+Z10 o-work work -O0
+Z11 n@adder32bits
+Z12 !s108 1480895112.808000
+Z13 !s107 C:/Hanoi/Adder32bits.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 !s100 kgVk:he1?[[8LcBS]=TFi0
+Z15 Ie4O>@k<hYb3IJ<Omn1eB?3
+Z16 Vf?Xo<1O=43iR3S=D2m@]G1
+R4
+Z17 w1478377210
+Z18 8C:/Hanoi/ALU.v
+Z19 FC:/Hanoi/ALU.v
+L0 20
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Hanoi/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1480895112.973000
+Z23 !s107 C:/Hanoi/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControl
+Z24 !s100 NNTaXnTQzSazBce1IRoNH2
+Z25 I?O1bU<b0K_af0kcY_23^?1
+Z26 VIGZ:P?;9Ci[zlXR_9KUPd1
+R4
+Z27 w1478368450
+Z28 8C:/Hanoi/ALUControl.v
+Z29 FC:/Hanoi/ALUControl.v
+L0 15
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Hanoi/ALUControl.v|
+R10
+Z31 n@a@l@u@control
+Z32 !s108 1480895113.134000
+Z33 !s107 C:/Hanoi/ALUControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vANDGate
+Z34 !s100 C?Hd`hIedW8d?o?il^odQ2
+Z35 I:CDjG6CGVnk0G6oe?Bb_f3
+Z36 V@P6ZJzDP4U00DFc40UnH?0
+R4
+Z37 w1477898816
+Z38 8C:/Hanoi/ANDGate.v
+Z39 FC:/Hanoi/ANDGate.v
+L0 13
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Hanoi/ANDGate.v|
+R10
+Z41 n@a@n@d@gate
+Z42 !s108 1480895113.295000
+Z43 !s107 C:/Hanoi/ANDGate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z44 !s100 MfP^:9BTJ:BkkB5kEbJMf3
+Z45 IC_Mkk5Wef=ZK_VcJCnmPB0
+Z46 Vl><Cc;`_<672EIiJcH_902
+R4
+Z47 w1478368814
+Z48 8C:/Hanoi/Control.v
+Z49 FC:/Hanoi/Control.v
+L0 14
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Hanoi/Control.v|
+R10
+Z51 n@control
+Z52 !s108 1480895113.468000
+Z53 !s107 C:/Hanoi/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMemory
+Z54 !s100 0RC:PdaOmQfO[QXLE@_g51
+Z55 IkMW`W6XT:[?kSzZkcH;d43
+Z56 V4L9lB_hUOgDh5240fH`j10
+R4
+Z57 w1419777124
+Z58 8C:/Hanoi/DataMemory.v
+Z59 FC:/Hanoi/DataMemory.v
+L0 13
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Hanoi/DataMemory.v|
+R10
+Z61 n@data@memory
+Z62 !s108 1480895113.625000
+Z63 !s107 C:/Hanoi/DataMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoderRegisterFile
+Z64 !s100 UYJ^1GP>7AS7Ji`_KgLF31
+Z65 I9lg?M=;RLBzNTn;T7I?AZ0
+Z66 VAzJiE5G;z;;Z`IVeRHbi]2
+R4
+Z67 w1419777144
+Z68 8C:/Hanoi/DecoderRegisterFile.v
+Z69 FC:/Hanoi/DecoderRegisterFile.v
+L0 12
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Hanoi/DecoderRegisterFile.v|
+R10
+Z71 n@decoder@register@file
+Z72 !s108 1480895113.784000
+Z73 !s107 C:/Hanoi/DecoderRegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vForwardingUnit
+Z74 !s100 3]WjfCfI<6ehS0iT;2]bX2
+Z75 IG@jaCkjP^4h0MhnWhjQF<1
+Z76 VkHl<OfHm?z=YD6;5b4jbF1
+R4
+Z77 w1480867238
+Z78 8C:/Hanoi/ForwardingUnit.v
+Z79 FC:/Hanoi/ForwardingUnit.v
+L0 1
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Hanoi/ForwardingUnit.v|
+R10
+Z81 n@forwarding@unit
+Z82 !s108 1480895114.197000
+Z83 !s107 C:/Hanoi/ForwardingUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardDetection
+Z84 !s100 ]QYPUQiLFHj;;`adcGii@3
+Z85 IenUboU]:=o1]@Y79E6m;B1
+Z86 VMZ2XgWRHVj9oA0ZA4SRo]1
+R4
+Z87 w1480866513
+Z88 8C:/Hanoi/HazardDetection.v
+Z89 FC:/Hanoi/HazardDetection.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/Hanoi/HazardDetection.v|
+R10
+Z91 n@hazard@detection
+Z92 !s108 1480895114.354000
+Z93 !s107 C:/Hanoi/HazardDetection.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS_Processor
+Z94 !s100 _fWY6IlN]^6><PPgH^e@=1
+Z95 I7;B?D9@UJ2<1>PkM=4<;92
+Z96 Vk1n02?gii8_lXT<AM3[NS3
+R4
+Z97 w1480895026
+Z98 8C:/Hanoi/MIPS_Processor.v
+Z99 FC:/Hanoi/MIPS_Processor.v
+L0 27
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/Hanoi/MIPS_Processor.v|
+R10
+Z101 n@m@i@p@s_@processor
+Z102 !s108 1480895114.890000
+Z103 !s107 C:/Hanoi/MIPS_Processor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPS_Processor_TB
+Z104 !s100 cg_]LL8OR6IWW6ALkHUlf3
+Z105 I=LJQFM0aJHHT_n7<Ym]nm1
+Z106 VF;RK8<I_2l2fKA6oTTYc[0
+R4
+Z107 w1465760940
+Z108 8C:/Hanoi/MIPS_Processor_TB.v
+Z109 FC:/Hanoi/MIPS_Processor_TB.v
+L0 15
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|C:/Hanoi/MIPS_Processor_TB.v|
+R10
+Z111 n@m@i@p@s_@processor_@t@b
+Z112 !s108 1480895115.046000
+Z113 !s107 C:/Hanoi/MIPS_Processor_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplexer2to1
+Z114 !s100 fezG]ahVCZHcIP81Ecmd_1
+Z115 IcJM[XJ5l4bX66AYKTCDa]2
+Z116 VVK]UMc9_`U;kn>BU8WnV61
+R4
+Z117 w1477895860
+Z118 8C:/Hanoi/Multiplexer2to1.v
+Z119 FC:/Hanoi/Multiplexer2to1.v
+L0 13
+R8
+r1
+31
+Z120 !s90 -reportprogress|300|-work|work|C:/Hanoi/Multiplexer2to1.v|
+R10
+Z121 n@multiplexer2to1
+Z122 !s108 1480895115.205000
+Z123 !s107 C:/Hanoi/Multiplexer2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplexer4to1
+Z124 !s100 4OkJ7`mLLI9ccMP5bYQGj2
+Z125 I<957lcFEPjP`II[KQG]UU1
+Z126 VYRSG?gTFz>a@aQ6cY7PEd2
+R4
+Z127 w1480724411
+Z128 8C:/Hanoi/Multiplexer4to1.v
+Z129 FC:/Hanoi/Multiplexer4to1.v
+L0 1
+R8
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|C:/Hanoi/Multiplexer4to1.v|
+R10
+Z131 n@multiplexer4to1
+Z132 !s108 1480895115.370000
+Z133 !s107 C:/Hanoi/Multiplexer4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUXRegisterFile
+Z134 !s100 fJg;L7W_MeQ6QzfAKLKKZ0
+Z135 Ioe3fJZ=WOTKRME^aN@4;M3
+Z136 VFY5?DFN3TE7YHT48]kVZO0
+R4
+Z137 w1392859726
+Z138 8C:/Hanoi/MUXRegisterFile.v
+Z139 FC:/Hanoi/MUXRegisterFile.v
+L0 2
+R8
+r1
+31
+Z140 !s90 -reportprogress|300|-work|work|C:/Hanoi/MUXRegisterFile.v|
+R10
+Z141 n@m@u@x@register@file
+Z142 !s108 1480895115.550000
+Z143 !s107 C:/Hanoi/MUXRegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Register
+Z144 !s100 [2MlZ1`cgn6HKOQ<B>MWK0
+Z145 IBWhQb81KH6JAT7NS0n:Ve2
+Z146 Vkm1FBdGHe3`kYf5Z@YS6F0
+R4
+Z147 w1480817788
+Z148 8C:/Hanoi/PC_Register.v
+Z149 FC:/Hanoi/PC_Register.v
+L0 15
+R8
+r1
+31
+Z150 !s90 -reportprogress|300|-work|work|C:/Hanoi/PC_Register.v|
+R10
+Z151 n@p@c_@register
+Z152 !s108 1480895115.709000
+Z153 !s107 C:/Hanoi/PC_Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeEXMEM
+Z154 !s100 :YgoYLz;<@;cT4m^XYVl31
+Z155 Ik<EW3AFQAV;9olzRjIhgL1
+Z156 VQiOaVkQeI8S0U^a]6LXXT2
+R4
+Z157 w1480861097
+Z158 8C:/Hanoi/PipeEXMEM.v
+Z159 FC:/Hanoi/PipeEXMEM.v
+L0 3
+R8
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|C:/Hanoi/PipeEXMEM.v|
+R10
+Z161 n@pipe@e@x@m@e@m
+Z162 !s108 1480895115.884000
+Z163 !s107 C:/Hanoi/PipeEXMEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeIDEX
+Z164 !s100 YR;dQ1lG_CA`TleHP0i>d0
+Z165 IoigNPz4_z?o3MzGkQHA2o1
+Z166 VaClNTX1<KZ:0XMkM9hP5W0
+R4
+Z167 w1480785480
+Z168 8C:/Hanoi/PipeIDEX.v
+Z169 FC:/Hanoi/PipeIDEX.v
+L0 2
+R8
+r1
+31
+Z170 !s90 -reportprogress|300|-work|work|C:/Hanoi/PipeIDEX.v|
+R10
+Z171 n@pipe@i@d@e@x
+Z172 !s108 1480895116.042000
+Z173 !s107 C:/Hanoi/PipeIDEX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeIFID
+Z174 !s100 OYMX3LdKcIF7THWY0^VX_3
+Z175 IOkVkg3M=6OW[Zi?NEb6>^1
+Z176 VZL`_[d9]DKNgJ?WUN1<^L1
+R4
+Z177 w1480785671
+Z178 8C:/Hanoi/PipeIFID.v
+Z179 FC:/Hanoi/PipeIFID.v
+L0 3
+R8
+r1
+31
+Z180 !s90 -reportprogress|300|-work|work|C:/Hanoi/PipeIFID.v|
+R10
+Z181 n@pipe@i@f@i@d
+Z182 !s108 1480895116.198000
+Z183 !s107 C:/Hanoi/PipeIFID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPipeMEMWB
+Z184 !s100 8fP_lVlcz9]f@jzW49`PE2
+Z185 IaEdmXi9imlgWejHXW_BCZ2
+Z186 V1FBGYo@adO6gLPj^UK@2:1
+R4
+Z187 w1480861099
+Z188 8C:/Hanoi/PipeMEMWB.v
+Z189 FC:/Hanoi/PipeMEMWB.v
+L0 3
+R8
+r1
+31
+Z190 !s90 -reportprogress|300|-work|work|C:/Hanoi/PipeMEMWB.v|
+R10
+Z191 n@pipe@m@e@m@w@b
+Z192 !s108 1480895116.362000
+Z193 !s107 C:/Hanoi/PipeMEMWB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgramMemory
+Z194 !s100 B7LF<L7LLZDX74E;H8Wl;2
+Z195 I2>?`^^R>zT_h=Ud<ldjf82
+Z196 VCC`gfbQneU65h7iiQf?k:2
+R4
+Z197 w1478093884
+Z198 8C:/Hanoi/ProgramMemory.v
+Z199 FC:/Hanoi/ProgramMemory.v
+L0 15
+R8
+r1
+31
+Z200 !s90 -reportprogress|300|-work|work|C:/Hanoi/ProgramMemory.v|
+R10
+Z201 n@program@memory
+Z202 !s108 1480895116.523000
+Z203 !s107 C:/Hanoi/ProgramMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z204 !s100 QE;Xd[FUL]foL?kU;gUne3
+Z205 I1Ac[H5JF1ojZcN7fiJl6A0
+Z206 V=zJ3n6de@MA;R2<J<Hg2>0
+R4
+Z207 w1419777162
+Z208 8C:/Hanoi/Register.v
+Z209 FC:/Hanoi/Register.v
+L0 12
+R8
+r1
+31
+Z210 !s90 -reportprogress|300|-work|work|C:/Hanoi/Register.v|
+R10
+Z211 n@register
+Z212 !s108 1480895116.685000
+Z213 !s107 C:/Hanoi/Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z214 !s100 Uae6SNkKEmaf_Y[D^VYY60
+Z215 IG3n5mQe<>Fn[o>H0LzDGz0
+Z216 VNW:i3U9n;NY?X@GQ<b1oG0
+R4
+Z217 w1477896078
+Z218 8C:/Hanoi/RegisterFile.v
+Z219 FC:/Hanoi/RegisterFile.v
+L0 15
+R8
+r1
+31
+Z220 !s90 -reportprogress|300|-work|work|C:/Hanoi/RegisterFile.v|
+R10
+Z221 n@register@file
+Z222 !s108 1480895116.854000
+Z223 !s107 C:/Hanoi/RegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftLeft2
+Z224 !s100 TV?RmgAG0eQ^@G[b8?h7l2
+Z225 I2<Hg8oCi=deJ`F9c;jP;?0
+Z226 Vnb>Sakz<@KW@i;;^V8USl3
+R4
+Z227 w1419777088
+Z228 8C:/Hanoi/ShiftLeft2.v
+Z229 FC:/Hanoi/ShiftLeft2.v
+L0 12
+R8
+r1
+31
+Z230 !s90 -reportprogress|300|-work|work|C:/Hanoi/ShiftLeft2.v|
+R10
+Z231 n@shift@left2
+!i10b 1
+!s85 0
+Z232 !s108 1480895117.016000
+Z233 !s107 C:/Hanoi/ShiftLeft2.v|
+!s101 -O0
+vSignExtend
+!i10b 1
+Z234 !s100 ]fjSb1;FJVZE:3eLh>SjB2
+Z235 IU;3AX>I4z`OUjW9zM;5Z21
+Z236 V3c0EGMRjO^8AQ<D2Q;35d2
+R4
+Z237 w1419777096
+Z238 8C:/Hanoi/SignExtend.v
+Z239 FC:/Hanoi/SignExtend.v
+L0 14
+R8
+r1
+!s85 0
+31
+!s108 1480895117.167000
+!s107 C:/Hanoi/SignExtend.v|
+Z240 !s90 -reportprogress|300|-work|work|C:/Hanoi/SignExtend.v|
+!s101 -O0
+R10
+Z241 n@sign@extend

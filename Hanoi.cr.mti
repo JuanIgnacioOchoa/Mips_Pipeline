@@ -1,0 +1,123 @@
+C:/Hanoi/DecoderRegisterFile.v {1 {vlog -work work C:/Hanoi/DecoderRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/Hanoi/ANDGate.v {1 {vlog -work work C:/Hanoi/ANDGate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/Hanoi/Definitions.v {1 {vlog -work work C:/Hanoi/Definitions.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Hanoi/RegisterFile.v {1 {vlog -work work C:/Hanoi/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Hanoi/Register.v {1 {vlog -work work C:/Hanoi/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Hanoi/MUXRegisterFile.v {1 {vlog -work work C:/Hanoi/MUXRegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/Hanoi/MIPS_Processor.v {1 {vlog -work work C:/Hanoi/MIPS_Processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Hanoi/ProgramMemory.v {1 {vlog -work work C:/Hanoi/ProgramMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/Hanoi/Multiplexer2to1.v {1 {vlog -work work C:/Hanoi/Multiplexer2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/Hanoi/Control.v {1 {vlog -work work C:/Hanoi/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Hanoi/SignExtend.v {1 {vlog -work work C:/Hanoi/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Hanoi/ALU.v {1 {vlog -work work C:/Hanoi/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Hanoi/ShiftLeft2.v {1 {vlog -work work C:/Hanoi/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Hanoi/DataMemory.v {1 {vlog -work work C:/Hanoi/DataMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Hanoi/ALUControl.v {1 {vlog -work work C:/Hanoi/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/Hanoi/MIPS_Processor_TB.v {1 {vlog -work work C:/Hanoi/MIPS_Processor_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/Hanoi/Adder32bits.v {1 {vlog -work work C:/Hanoi/Adder32bits.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/Hanoi/PC_Register.v {1 {vlog -work work C:/Hanoi/PC_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}}
